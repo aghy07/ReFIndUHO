@@ -1,0 +1,8 @@
+*.log
+.env
+.DS_Store
+Thumbs.db
+
+uploads/*
+!uploads/index.html
+!uploads/.htaccess

@@ -1,0 +1,6 @@
+# Matikan eksekusi script di direktori upload untuk keamanan
+Options -Indexes -ExecCGI
+<FilesMatch "(?i)\.(php|phtml|php3|php4|php5|php7|phar|pl|py|jsp|asp|sh|cgi)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
