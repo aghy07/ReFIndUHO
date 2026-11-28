@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" fill="none">
+  <rect width="300" height="200" fill="#F1F5F9"/>
+  <path d="M125 90C125 84.4772 129.477 80 135 80C140.523 80 145 84.4772 145 90C145 95.5228 140.523 100 135 100C129.477 100 125 95.5228 125 90Z" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M100 130L125 105L145 125L165 100L195 130H100Z" fill="#CBD5E1"/>
+  <rect x="95" y="65" width="110" height="80" rx="6" stroke="#94A3B8" stroke-width="2"/>
+  <text x="150" y="165" font-family="sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Tidak ada foto</text>
+</svg>
+
